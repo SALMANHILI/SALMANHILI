@@ -3,7 +3,7 @@
   <img src="https://media.giphy.com/media/LMcB8XospGZO8UQq87/giphy.gif" width="300"/>
 </div>
 
-<div id="badges" style="display: flex; justify-content: center;"> 
+<div id="badges" align="center"> 
   <a href="https://www.linkedin.com/in/salmanhili/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
