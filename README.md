@@ -14,8 +14,8 @@
 
 <h1><center>👇 Badges:</center></h1>
 
-[![Badge 1](https://www.holopin.io/userbadge/clnnuteif18920fic0edlc7qu)](https://holopin.io/@salmanhili)
-[![Badge 2](https://www.holopin.io/userbadge/clnnusdsj05320fmsqygabwih)](https://holopin.io/@salmanhili)
-[![Badge 2](https://www.holopin.io/hacktoberfest2023/userbadge/clnjbze8g20770fmkhetzxnod)](https://holopin.io/@salmanhili)
-[![Badge 2](https://www.holopin.io/userbadge/clnnutt0501270fjz1py0746p)](https://holopin.io/@salmanhili)
+[![Badge 1](clnnuteif18920fic0edlc7qu)](https://holopin.io/@salmanhili)
+[![Badge 2](clnnusdsj05320fmsqygabwih)](https://holopin.io/@salmanhili)
+[![Badge 3](clnjbze8g20770fmkhetzxnod)](https://holopin.io/@salmanhili)
+[![Badge 4](clnnutt0501270fjz1py0746p)](https://holopin.io/@salmanhili)
 
