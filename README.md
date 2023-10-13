@@ -14,5 +14,5 @@
 
 <h1><center>👇 Badges:</center></h1>
 
-[![@SALMANHILI's Holopin board](https://holopin.me/salmanhili)](https://holopin.io/@salmanhili)
+[![An image of @salmanhili's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/salmanhili)](https://holopin.io/@salmanhili)
 
